@@ -1,0 +1,3122 @@
+{
+  "metadata": {
+    "nodes_count": 246,
+    "edges_count": 272,
+    "components_before": 122,
+    "components_after": 52,
+    "healed_edges_added": 119,
+    "connectivity_gain_ratio": 10.333333333333334
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "y": 385.0,
+      "x": 329.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 1,
+      "y": 256.0,
+      "x": 236.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 2,
+      "y": 232.0,
+      "x": 236.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 3,
+      "y": 226.0,
+      "x": 232.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 4,
+      "y": 189.0,
+      "x": 210.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 5,
+      "y": 290.0,
+      "x": 271.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 6,
+      "y": 437.0,
+      "x": 360.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 7,
+      "y": 347.0,
+      "x": 305.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 8,
+      "y": 125.0,
+      "x": 137.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 9,
+      "y": 367.0,
+      "x": 317.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 10,
+      "y": 252.0,
+      "x": 241.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 11,
+      "y": 304.0,
+      "x": 279.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 12,
+      "y": 430.0,
+      "x": 355.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 13,
+      "y": 324.0,
+      "x": 291.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 14,
+      "y": 128.0,
+      "x": 108.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 15,
+      "y": 425.0,
+      "x": 352.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 16,
+      "y": 100.0,
+      "x": 110.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 17,
+      "y": 275.0,
+      "x": 255.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 18,
+      "y": 256.0,
+      "x": 403.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 19,
+      "y": 221.0,
+      "x": 229.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 20,
+      "y": 339.0,
+      "x": 300.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 21,
+      "y": 402.0,
+      "x": 338.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 22,
+      "y": 178.0,
+      "x": 203.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 23,
+      "y": 252.0,
+      "x": 271.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 24,
+      "y": 184.0,
+      "x": 207.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 25,
+      "y": 384.0,
+      "x": 262.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 26,
+      "y": 403.0,
+      "x": 339.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 27,
+      "y": 305.0,
+      "x": 280.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 28,
+      "y": 134.0,
+      "x": 151.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 29,
+      "y": 423.0,
+      "x": 351.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 30,
+      "y": 199.0,
+      "x": 216.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 31,
+      "y": 128.0,
+      "x": 403.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 32,
+      "y": 97.0,
+      "x": 104.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 33,
+      "y": 121.0,
+      "x": 135.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 34,
+      "y": 383.0,
+      "x": 327.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 35,
+      "y": 320.0,
+      "x": 289.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 36,
+      "y": 378.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 37,
+      "y": 140.0,
+      "x": 157.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 38,
+      "y": 277.0,
+      "x": 263.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 39,
+      "y": 214.0,
+      "x": 225.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 40,
+      "y": 340.0,
+      "x": 301.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 41,
+      "y": 397.0,
+      "x": 335.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 42,
+      "y": 179.0,
+      "x": 204.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 43,
+      "y": 511.0,
+      "x": 256.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 44,
+      "y": 241.0,
+      "x": 252.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 45,
+      "y": 98.0,
+      "x": 105.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 46,
+      "y": 99.0,
+      "x": 104.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 47,
+      "y": 398.0,
+      "x": 336.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 48,
+      "y": 335.0,
+      "x": 298.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 49,
+      "y": 384.0,
+      "x": 328.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 50,
+      "y": 412.0,
+      "x": 344.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 51,
+      "y": 384.0,
+      "x": 511.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 52,
+      "y": 0.0,
+      "x": 256.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 53,
+      "y": 384.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 54,
+      "y": 122.0,
+      "x": 135.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 55,
+      "y": 372.0,
+      "x": 320.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 56,
+      "y": 309.0,
+      "x": 282.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 57,
+      "y": 134.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 58,
+      "y": 427.0,
+      "x": 353.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 59,
+      "y": 130.0,
+      "x": 149.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 60,
+      "y": 329.0,
+      "x": 294.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 61,
+      "y": 256.0,
+      "x": 108.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 62,
+      "y": 407.0,
+      "x": 341.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 63,
+      "y": 344.0,
+      "x": 303.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 64,
+      "y": 134.0,
+      "x": 256.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 65,
+      "y": 330.0,
+      "x": 295.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 66,
+      "y": 128.0,
+      "x": 96.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 67,
+      "y": 393.0,
+      "x": 333.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 68,
+      "y": 350.0,
+      "x": 307.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 69,
+      "y": 307.0,
+      "x": 281.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 70,
+      "y": 126.0,
+      "x": 135.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 71,
+      "y": 408.0,
+      "x": 342.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 72,
+      "y": 122.0,
+      "x": 256.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 73,
+      "y": 365.0,
+      "x": 316.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 74,
+      "y": 275.0,
+      "x": 261.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 75,
+      "y": 277.0,
+      "x": 258.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 76,
+      "y": 130.0,
+      "x": 151.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 77,
+      "y": 385.0,
+      "x": 328.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 78,
+      "y": 249.0,
+      "x": 242.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 79,
+      "y": 302.0,
+      "x": 278.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 80,
+      "y": 256.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 81,
+      "y": 204.0,
+      "x": 219.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 82,
+      "y": 384.0,
+      "x": 415.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 83,
+      "y": 224.0,
+      "x": 231.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 84,
+      "y": 384.0,
+      "x": 250.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 85,
+      "y": 256.0,
+      "x": 0.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 86,
+      "y": 325.0,
+      "x": 292.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 87,
+      "y": 99.0,
+      "x": 108.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 88,
+      "y": 219.0,
+      "x": 228.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 89,
+      "y": 345.0,
+      "x": 304.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 90,
+      "y": 125.0,
+      "x": 136.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 91,
+      "y": 282.0,
+      "x": 266.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 92,
+      "y": 239.0,
+      "x": 240.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 93,
+      "y": 177.0,
+      "x": 201.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 94,
+      "y": 390.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 95,
+      "y": 126.0,
+      "x": 137.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 96,
+      "y": 128.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 97,
+      "y": 511.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 98,
+      "y": 360.0,
+      "x": 313.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 99,
+      "y": 354.0,
+      "x": 309.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 100,
+      "y": 417.0,
+      "x": 347.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 101,
+      "y": 128.0,
+      "x": 0.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 102,
+      "y": 178.0,
+      "x": 202.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 103,
+      "y": 197.0,
+      "x": 215.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 104,
+      "y": 390.0,
+      "x": 256.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 105,
+      "y": 432.0,
+      "x": 356.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 106,
+      "y": 128.0,
+      "x": 256.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 107,
+      "y": 120.0,
+      "x": 133.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 108,
+      "y": 334.0,
+      "x": 297.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 109,
+      "y": 262.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 110,
+      "y": 0.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 111,
+      "y": 428.0,
+      "x": 354.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 112,
+      "y": 437.0,
+      "x": 355.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 113,
+      "y": 392.0,
+      "x": 332.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 114,
+      "y": 234.0,
+      "x": 237.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 115,
+      "y": 349.0,
+      "x": 306.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 116,
+      "y": 191.0,
+      "x": 211.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 117,
+      "y": 135.0,
+      "x": 151.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 118,
+      "y": 121.0,
+      "x": 134.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 119,
+      "y": 384.0,
+      "x": 108.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 120,
+      "y": 355.0,
+      "x": 310.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 121,
+      "y": 383.0,
+      "x": 326.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 122,
+      "y": 292.0,
+      "x": 272.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 123,
+      "y": 256.0,
+      "x": 96.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 124,
+      "y": 186.0,
+      "x": 208.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 125,
+      "y": 277.0,
+      "x": 262.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 126,
+      "y": 312.0,
+      "x": 284.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 127,
+      "y": 206.0,
+      "x": 220.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 128,
+      "y": 179.0,
+      "x": 203.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 129,
+      "y": 413.0,
+      "x": 345.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 130,
+      "y": 271.0,
+      "x": 252.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 131,
+      "y": 370.0,
+      "x": 319.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 132,
+      "y": 433.0,
+      "x": 357.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 133,
+      "y": 209.0,
+      "x": 222.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 134,
+      "y": 327.0,
+      "x": 293.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 135,
+      "y": 390.0,
+      "x": 331.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 136,
+      "y": 229.0,
+      "x": 234.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 137,
+      "y": 511.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 138,
+      "y": 122.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 139,
+      "y": 180.0,
+      "x": 204.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 140,
+      "y": 287.0,
+      "x": 269.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 141,
+      "y": 127.0,
+      "x": 140.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 142,
+      "y": 384.0,
+      "x": 403.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 143,
+      "y": 247.0,
+      "x": 242.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 144,
+      "y": 130.0,
+      "x": 148.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 145,
+      "y": 54.0,
+      "x": 55.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 146,
+      "y": 187.0,
+      "x": 209.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 147,
+      "y": 131.0,
+      "x": 149.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 148,
+      "y": 262.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 149,
+      "y": 422.0,
+      "x": 350.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 150,
+      "y": 0.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 151,
+      "y": 435.0,
+      "x": 356.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 152,
+      "y": 272.0,
+      "x": 262.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 153,
+      "y": 202.0,
+      "x": 218.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 154,
+      "y": 222.0,
+      "x": 230.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 155,
+      "y": 49.0,
+      "x": 49.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 156,
+      "y": 177.0,
+      "x": 207.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 157,
+      "y": 276.0,
+      "x": 262.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 158,
+      "y": 128.0,
+      "x": 415.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 159,
+      "y": 400.0,
+      "x": 337.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 160,
+      "y": 182.0,
+      "x": 206.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 161,
+      "y": 130.0,
+      "x": 150.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 162,
+      "y": 134.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 163,
+      "y": 260.0,
+      "x": 241.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 164,
+      "y": 196.0,
+      "x": 214.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 165,
+      "y": 297.0,
+      "x": 275.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 166,
+      "y": 415.0,
+      "x": 346.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 167,
+      "y": 51.0,
+      "x": 51.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 168,
+      "y": 317.0,
+      "x": 287.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 169,
+      "y": 435.0,
+      "x": 358.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 170,
+      "y": 128.0,
+      "x": 262.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 171,
+      "y": 122.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 172,
+      "y": 211.0,
+      "x": 223.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 173,
+      "y": 212.0,
+      "x": 224.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 174,
+      "y": 418.0,
+      "x": 348.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 175,
+      "y": 260.0,
+      "x": 271.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 176,
+      "y": 375.0,
+      "x": 322.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 177,
+      "y": 126.0,
+      "x": 136.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 178,
+      "y": 384.0,
+      "x": 96.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 179,
+      "y": 395.0,
+      "x": 334.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 180,
+      "y": 332.0,
+      "x": 296.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 181,
+      "y": 256.0,
+      "x": 511.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 182,
+      "y": 89.0,
+      "x": 96.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 183,
+      "y": 352.0,
+      "x": 308.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 184,
+      "y": 289.0,
+      "x": 270.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 185,
+      "y": 256.0,
+      "x": 276.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 186,
+      "y": 256.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 187,
+      "y": 295.0,
+      "x": 274.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 188,
+      "y": 410.0,
+      "x": 343.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 189,
+      "y": 378.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 190,
+      "y": 98.0,
+      "x": 104.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 191,
+      "y": 192.0,
+      "x": 212.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 192,
+      "y": 310.0,
+      "x": 283.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 193,
+      "y": 128.0,
+      "x": 511.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 194,
+      "y": 177.0,
+      "x": 202.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 195,
+      "y": 241.0,
+      "x": 260.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 196,
+      "y": 276.0,
+      "x": 257.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 197,
+      "y": 384.0,
+      "x": 327.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 198,
+      "y": 390.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 199,
+      "y": 126.0,
+      "x": 138.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 200,
+      "y": 378.0,
+      "x": 256.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 201,
+      "y": 278.0,
+      "x": 263.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 202,
+      "y": 128.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 203,
+      "y": 207.0,
+      "x": 221.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 204,
+      "y": 250.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 205,
+      "y": 227.0,
+      "x": 233.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 206,
+      "y": 53.0,
+      "x": 53.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 207,
+      "y": 284.0,
+      "x": 267.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 208,
+      "y": 384.0,
+      "x": 409.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 209,
+      "y": 384.0,
+      "x": 0.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 210,
+      "y": 285.0,
+      "x": 268.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 211,
+      "y": 342.0,
+      "x": 302.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 212,
+      "y": 405.0,
+      "x": 340.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 213,
+      "y": 256.0,
+      "x": 415.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 214,
+      "y": 120.0,
+      "x": 134.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 215,
+      "y": 362.0,
+      "x": 314.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 216,
+      "y": 299.0,
+      "x": 276.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 217,
+      "y": 201.0,
+      "x": 217.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 218,
+      "y": 319.0,
+      "x": 288.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 219,
+      "y": 384.0,
+      "x": 256.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 220,
+      "y": 420.0,
+      "x": 349.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 221,
+      "y": 126.0,
+      "x": 140.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 222,
+      "y": 377.0,
+      "x": 323.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 223,
+      "y": 127.0,
+      "x": 139.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 224,
+      "y": 322.0,
+      "x": 290.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 225,
+      "y": 135.0,
+      "x": 152.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 226,
+      "y": 141.0,
+      "x": 159.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 227,
+      "y": 216.0,
+      "x": 226.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 228,
+      "y": 337.0,
+      "x": 299.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 229,
+      "y": 236.0,
+      "x": 256.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 230,
+      "y": 128.0,
+      "x": 250.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 231,
+      "y": 357.0,
+      "x": 311.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 232,
+      "y": 294.0,
+      "x": 273.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 233,
+      "y": 314.0,
+      "x": 285.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 234,
+      "y": 280.0,
+      "x": 265.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 235,
+      "y": 243.0,
+      "x": 243.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 236,
+      "y": 300.0,
+      "x": 277.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 237,
+      "y": 237.0,
+      "x": 239.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 238,
+      "y": 194.0,
+      "x": 213.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 239,
+      "y": 250.0,
+      "x": 102.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 240,
+      "y": 127.0,
+      "x": 141.0,
+      "is_endpoint": false
+    },
+    {
+      "id": 241,
+      "y": 315.0,
+      "x": 286.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 242,
+      "y": 378.0,
+      "x": 324.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 243,
+      "y": 270.0,
+      "x": 263.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 244,
+      "y": 217.0,
+      "x": 227.0,
+      "is_endpoint": true
+    },
+    {
+      "id": 245,
+      "y": 131.0,
+      "x": 150.0,
+      "is_endpoint": false
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 49,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 0,
+      "target": 77,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 0,
+      "target": 142,
+      "weight": 752.426406871193,
+      "healed": false
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "weight": 66.5685424949238,
+      "healed": false
+    },
+    {
+      "source": 1,
+      "target": 61,
+      "weight": 1280.0,
+      "healed": false
+    },
+    {
+      "source": 1,
+      "target": 163,
+      "weight": 66.5685424949238,
+      "healed": false
+    },
+    {
+      "source": 2,
+      "target": 136,
+      "weight": 38.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 2,
+      "target": 114,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 2,
+      "target": 92,
+      "weight": 80.62257766723633,
+      "healed": true
+    },
+    {
+      "source": 3,
+      "target": 205,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 3,
+      "target": 154,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 3,
+      "target": 244,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 5,
+      "target": 184,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 5,
+      "target": 232,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 5,
+      "target": 216,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 8,
+      "target": 90,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 8,
+      "target": 177,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 8,
+      "target": 95,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 8,
+      "target": 199,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 9,
+      "target": 131,
+      "weight": 38.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 9,
+      "target": 73,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 9,
+      "target": 98,
+      "weight": 80.62257766723633,
+      "healed": true
+    },
+    {
+      "source": 10,
+      "target": 78,
+      "weight": 31.622776985168457,
+      "healed": true
+    },
+    {
+      "source": 10,
+      "target": 44,
+      "weight": 155.5634880065918,
+      "healed": true
+    },
+    {
+      "source": 11,
+      "target": 27,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 11,
+      "target": 236,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 11,
+      "target": 187,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 13,
+      "target": 86,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 13,
+      "target": 35,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 13,
+      "target": 241,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 14,
+      "target": 70,
+      "weight": 278.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 14,
+      "target": 162,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 16,
+      "target": 107,
+      "weight": 312.84271247461913,
+      "healed": false
+    },
+    {
+      "source": 16,
+      "target": 182,
+      "weight": 178.04492950439453,
+      "healed": true
+    },
+    {
+      "source": 17,
+      "target": 130,
+      "weight": 52.426406871192846,
+      "healed": false
+    },
+    {
+      "source": 17,
+      "target": 196,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 17,
+      "target": 207,
+      "weight": 150.0,
+      "healed": true
+    },
+    {
+      "source": 18,
+      "target": 185,
+      "weight": 1270.0,
+      "healed": false
+    },
+    {
+      "source": 18,
+      "target": 109,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 18,
+      "target": 204,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 19,
+      "target": 154,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 19,
+      "target": 244,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 19,
+      "target": 173,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 20,
+      "target": 40,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 20,
+      "target": 48,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 20,
+      "target": 65,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 21,
+      "target": 26,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 21,
+      "target": 47,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 21,
+      "target": 67,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 22,
+      "target": 194,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 22,
+      "target": 102,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 22,
+      "target": 128,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 22,
+      "target": 42,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 23,
+      "target": 185,
+      "weight": 66.5685424949238,
+      "healed": false
+    },
+    {
+      "source": 23,
+      "target": 195,
+      "weight": 155.5634880065918,
+      "healed": true
+    },
+    {
+      "source": 23,
+      "target": 235,
+      "weight": 294.108829498291,
+      "healed": true
+    },
+    {
+      "source": 25,
+      "target": 121,
+      "weight": 652.4264068711927,
+      "healed": false
+    },
+    {
+      "source": 25,
+      "target": 104,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 26,
+      "target": 62,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 26,
+      "target": 50,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 27,
+      "target": 56,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 27,
+      "target": 233,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 28,
+      "target": 117,
+      "weight": 24.14213562373095,
+      "healed": false
+    },
+    {
+      "source": 28,
+      "target": 225,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 29,
+      "target": 149,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 29,
+      "target": 58,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 29,
+      "target": 105,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 31,
+      "target": 170,
+      "weight": 1410.0,
+      "healed": false
+    },
+    {
+      "source": 31,
+      "target": 57,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 31,
+      "target": 138,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 32,
+      "target": 150,
+      "weight": 994.8528137423857,
+      "healed": false
+    },
+    {
+      "source": 32,
+      "target": 190,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 32,
+      "target": 45,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 33,
+      "target": 214,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 33,
+      "target": 118,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 33,
+      "target": 54,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 34,
+      "target": 121,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 34,
+      "target": 197,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 34,
+      "target": 49,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 35,
+      "target": 218,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 35,
+      "target": 60,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 36,
+      "target": 148,
+      "weight": 1160.0,
+      "healed": false
+    },
+    {
+      "source": 36,
+      "target": 119,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 36,
+      "target": 178,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 37,
+      "target": 225,
+      "weight": 70.71067811865476,
+      "healed": false
+    },
+    {
+      "source": 37,
+      "target": 226,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 38,
+      "target": 157,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 38,
+      "target": 125,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 38,
+      "target": 201,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 40,
+      "target": 63,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 40,
+      "target": 115,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 41,
+      "target": 47,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 41,
+      "target": 67,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 41,
+      "target": 242,
+      "weight": 219.54498291015625,
+      "healed": true
+    },
+    {
+      "source": 42,
+      "target": 128,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 42,
+      "target": 139,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 43,
+      "target": 104,
+      "weight": 1210.0,
+      "healed": false
+    },
+    {
+      "source": 44,
+      "target": 229,
+      "weight": 66.5685424949238,
+      "healed": false
+    },
+    {
+      "source": 45,
+      "target": 190,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 46,
+      "target": 190,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 46,
+      "target": 171,
+      "weight": 238.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 47,
+      "target": 62,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 48,
+      "target": 108,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 48,
+      "target": 63,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 49,
+      "target": 197,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 49,
+      "target": 77,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 50,
+      "target": 129,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 50,
+      "target": 71,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 51,
+      "target": 82,
+      "weight": 960.0,
+      "healed": false
+    },
+    {
+      "source": 52,
+      "target": 72,
+      "weight": 1220.0,
+      "healed": false
+    },
+    {
+      "source": 54,
+      "target": 118,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 55,
+      "target": 176,
+      "weight": 38.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 55,
+      "target": 131,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 55,
+      "target": 73,
+      "weight": 80.62257766723633,
+      "healed": true
+    },
+    {
+      "source": 56,
+      "target": 192,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 56,
+      "target": 236,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 57,
+      "target": 204,
+      "weight": 1160.0,
+      "healed": false
+    },
+    {
+      "source": 57,
+      "target": 158,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 58,
+      "target": 111,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 58,
+      "target": 174,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 59,
+      "target": 144,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 59,
+      "target": 161,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 59,
+      "target": 147,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 59,
+      "target": 245,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 60,
+      "target": 65,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 60,
+      "target": 86,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 61,
+      "target": 148,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 61,
+      "target": 239,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 62,
+      "target": 71,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 63,
+      "target": 89,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 64,
+      "target": 229,
+      "weight": 1020.0,
+      "healed": false
+    },
+    {
+      "source": 64,
+      "target": 170,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 65,
+      "target": 108,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 66,
+      "target": 101,
+      "weight": 960.0,
+      "healed": false
+    },
+    {
+      "source": 66,
+      "target": 162,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 66,
+      "target": 171,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 67,
+      "target": 113,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 68,
+      "target": 115,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 68,
+      "target": 99,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 68,
+      "target": 231,
+      "weight": 80.62257766723633,
+      "healed": true
+    },
+    {
+      "source": 70,
+      "target": 90,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 70,
+      "target": 177,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 71,
+      "target": 100,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 72,
+      "target": 170,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 72,
+      "target": 230,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 73,
+      "target": 215,
+      "weight": 38.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 74,
+      "target": 157,
+      "weight": 20.0,
+      "healed": false
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "weight": 38.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 75,
+      "target": 196,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 75,
+      "target": 200,
+      "weight": 1018.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 76,
+      "target": 230,
+      "weight": 998.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 76,
+      "target": 161,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 76,
+      "target": 245,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 77,
+      "target": 197,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 78,
+      "target": 143,
+      "weight": 28.284271247461902,
+      "healed": false
+    },
+    {
+      "source": 78,
+      "target": 130,
+      "weight": 241.66091918945312,
+      "healed": true
+    },
+    {
+      "source": 82,
+      "target": 94,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 82,
+      "target": 189,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 84,
+      "target": 119,
+      "weight": 1420.0,
+      "healed": false
+    },
+    {
+      "source": 84,
+      "target": 104,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 84,
+      "target": 200,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 85,
+      "target": 123,
+      "weight": 960.0,
+      "healed": false
+    },
+    {
+      "source": 86,
+      "target": 108,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 89,
+      "target": 115,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 89,
+      "target": 99,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 90,
+      "target": 177,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 90,
+      "target": 95,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 92,
+      "target": 235,
+      "weight": 52.426406871192846,
+      "healed": false
+    },
+    {
+      "source": 92,
+      "target": 237,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 93,
+      "target": 226,
+      "weight": 569.1168824543139,
+      "healed": false
+    },
+    {
+      "source": 93,
+      "target": 194,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 93,
+      "target": 102,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 94,
+      "target": 97,
+      "weight": 1210.0,
+      "healed": false
+    },
+    {
+      "source": 95,
+      "target": 177,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 95,
+      "target": 199,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 98,
+      "target": 231,
+      "weight": 38.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 98,
+      "target": 215,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 99,
+      "target": 120,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 100,
+      "target": 174,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 100,
+      "target": 129,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 102,
+      "target": 194,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 102,
+      "target": 128,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 103,
+      "target": 164,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 103,
+      "target": 217,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 103,
+      "target": 127,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 105,
+      "target": 132,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 105,
+      "target": 111,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 107,
+      "target": 214,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 107,
+      "target": 118,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 109,
+      "target": 189,
+      "weight": 1160.0,
+      "healed": false
+    },
+    {
+      "source": 109,
+      "target": 213,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 110,
+      "target": 138,
+      "weight": 1220.0,
+      "healed": false
+    },
+    {
+      "source": 113,
+      "target": 242,
+      "weight": 161.24515533447266,
+      "healed": true
+    },
+    {
+      "source": 113,
+      "target": 176,
+      "weight": 197.2308349609375,
+      "healed": true
+    },
+    {
+      "source": 114,
+      "target": 237,
+      "weight": 38.2842712474619,
+      "healed": false
+    },
+    {
+      "source": 114,
+      "target": 205,
+      "weight": 80.62257766723633,
+      "healed": true
+    },
+    {
+      "source": 116,
+      "target": 191,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 116,
+      "target": 146,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 116,
+      "target": 160,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 117,
+      "target": 225,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 118,
+      "target": 214,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 119,
+      "target": 198,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 120,
+      "target": 231,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 120,
+      "target": 215,
+      "weight": 80.62257766723633,
+      "healed": true
+    },
+    {
+      "source": 121,
+      "target": 197,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 123,
+      "target": 148,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 124,
+      "target": 146,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 124,
+      "target": 160,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 125,
+      "target": 157,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 125,
+      "target": 201,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 127,
+      "target": 203,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 127,
+      "target": 153,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 128,
+      "target": 139,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 129,
+      "target": 149,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 130,
+      "target": 163,
+      "weight": 155.5634880065918,
+      "healed": true
+    },
+    {
+      "source": 130,
+      "target": 235,
+      "weight": 294.108829498291,
+      "healed": true
+    },
+    {
+      "source": 131,
+      "target": 222,
+      "weight": 80.62257766723633,
+      "healed": true
+    },
+    {
+      "source": 136,
+      "target": 205,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 136,
+      "target": 154,
+      "weight": 80.62257766723633,
+      "healed": true
+    },
+    {
+      "source": 137,
+      "target": 198,
+      "weight": 1210.0,
+      "healed": false
+    },
+    {
+      "source": 139,
+      "target": 160,
+      "weight": 28.284271247461902,
+      "healed": false
+    },
+    {
+      "source": 141,
+      "target": 221,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 141,
+      "target": 223,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 141,
+      "target": 240,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 142,
+      "target": 189,
+      "weight": 84.85280990600586,
+      "healed": true
+    },
+    {
+      "source": 143,
+      "target": 237,
+      "weight": 104.40306663513184,
+      "healed": true
+    },
+    {
+      "source": 144,
+      "target": 240,
+      "weight": 82.42640687119285,
+      "healed": false
+    },
+    {
+      "source": 144,
+      "target": 147,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 145,
+      "target": 182,
+      "weight": 554.974746830583,
+      "healed": false
+    },
+    {
+      "source": 145,
+      "target": 206,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 146,
+      "target": 164,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 147,
+      "target": 161,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 147,
+      "target": 245,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 149,
+      "target": 174,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 153,
+      "target": 217,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 153,
+      "target": 172,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 158,
+      "target": 193,
+      "weight": 960.0,
+      "healed": false
+    },
+    {
+      "source": 161,
+      "target": 245,
+      "weight": 10.0,
+      "healed": false
+    },
+    {
+      "source": 162,
+      "target": 239,
+      "weight": 1160.0,
+      "healed": false
+    },
+    {
+      "source": 163,
+      "target": 196,
+      "weight": 226.27416610717773,
+      "healed": true
+    },
+    {
+      "source": 163,
+      "target": 175,
+      "weight": 300.0,
+      "healed": true
+    },
+    {
+      "source": 164,
+      "target": 191,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 167,
+      "target": 206,
+      "weight": 28.284271247461902,
+      "healed": false
+    },
+    {
+      "source": 172,
+      "target": 173,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 172,
+      "target": 203,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 173,
+      "target": 227,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 175,
+      "target": 185,
+      "weight": 66.5685424949238,
+      "healed": false
+    },
+    {
+      "source": 176,
+      "target": 222,
+      "weight": 22.360680103302002,
+      "healed": true
+    },
+    {
+      "source": 178,
+      "target": 209,
+      "weight": 960.0,
+      "healed": false
+    },
+    {
+      "source": 181,
+      "target": 213,
+      "weight": 960.0,
+      "healed": false
+    },
+    {
+      "source": 184,
+      "target": 210,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 184,
+      "target": 234,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 187,
+      "target": 232,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 187,
+      "target": 216,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 191,
+      "target": 217,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 192,
+      "target": 233,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 192,
+      "target": 218,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 195,
+      "target": 229,
+      "weight": 66.5685424949238,
+      "healed": false
+    },
+    {
+      "source": 199,
+      "target": 223,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 201,
+      "target": 234,
+      "weight": 28.284271247461902,
+      "healed": false
+    },
+    {
+      "source": 203,
+      "target": 227,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 207,
+      "target": 210,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 207,
+      "target": 234,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 210,
+      "target": 232,
+      "weight": 102.9563045501709,
+      "healed": true
+    },
+    {
+      "source": 216,
+      "target": 236,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 218,
+      "target": 241,
+      "weight": 44.721360206604004,
+      "healed": true
+    },
+    {
+      "source": 221,
+      "target": 223,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 221,
+      "target": 240,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 222,
+      "target": 242,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 227,
+      "target": 244,
+      "weight": 14.142135623730951,
+      "healed": false
+    },
+    {
+      "source": 233,
+      "target": 241,
+      "weight": 14.142135623730951,
+      "healed": false
+    }
+  ]
+}

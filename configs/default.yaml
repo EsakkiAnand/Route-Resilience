@@ -1,0 +1,59 @@
+# Route Resilience Default Configuration
+
+project:
+  name: "Route Resilience"
+  version: "0.1.0"
+  seed: 42
+  logging_level: "INFO"
+
+data:
+  bbox: [12.9716, 77.5946, 12.9916, 77.6146]  # [min_lat, min_lon, max_lat, max_lon] (Sample BBox: Bengaluru area)
+  date_range: ["2023-01-01", "2023-12-31"]
+  max_cloud_cover_pct: 15.0
+  tile_size: 256
+  tile_overlap: 32
+  synthetic_fallback: true
+  output_dir: "data/processed"
+  raw_dir: "data/raw"
+
+augmentation:
+  enable_synthetic_occlusion: true
+  shadow_polygon_count: 3
+  canopy_blob_count: 2
+  cloud_patch_count: 1
+
+model:
+  architecture: "unet_resnet34"  # Options: unet_resnet34, cbam_unet
+  in_channels: 3
+  num_classes: 1
+  pretrained: true
+  loss:
+    dice_weight: 1.0
+    bce_weight: 0.5
+    boundary_weight: 0.2
+    use_connectivity_penalty: true
+    connectivity_weight: 0.1
+  training:
+    batch_size: 8
+    epochs: 10
+    learning_rate: 0.001
+    weight_decay: 0.0001
+    checkpoint_dir: "models/checkpoints"
+
+healing:
+  distance_threshold_px: 30.0
+  max_angle_diff_deg: 45.0
+  connect_components_mst: true
+  output_graph_dir: "graph/outputs"
+
+analysis:
+  centrality_metric: "betweenness"
+  top_n_gatekeepers: 10
+  shortest_path_sample_size: 50
+  resilience_index_sample_pairs: 100
+
+dashboard:
+  port: 8501
+  title: "Route Resilience Analytics Dashboard"
+  map_center: [12.9816, 77.6046]
+  zoom_start: 14

@@ -1,0 +1,30 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# PyTest & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments & IDE
+.venv/
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+
+# Local Temporary Data Cache (Keep structure)
+data/processed/train/
+data/processed/val/
+data/raw/
+
+# Model Checkpoints (Keep structure)
+models/checkpoints/*.pth
+
+# Logs
+*.log
