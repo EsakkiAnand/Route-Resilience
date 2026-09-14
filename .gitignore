@@ -19,6 +19,7 @@ ENV/
 .vscode/
 
 # Local Temporary Data Cache (Keep structure)
+cache/
 data/processed/train/
 data/processed/val/
 data/raw/
