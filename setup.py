@@ -13,7 +13,10 @@ setup(
         "scikit-image",
         "torch",
         "networkx",
+        "osmnx",
         "pyyaml",
         "streamlit",
+        "folium",
+        "streamlit-folium",
     ],
 )

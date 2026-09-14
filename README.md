@@ -10,6 +10,10 @@
 
 ## 📌 Project Architecture (Stage A vs. Stage B)
 
+> **Current milestone: Real Map + Satellite Integration**
+>
+> The dashboard now opens on a real Bengaluru geographic area, provides OpenStreetMap and Esri World Imagery layers, downloads a cached OSM reference road network, and computes weighted centrality on that network. OSM is the current reference/demo source; it is not the future AI-healed graph.
+
 Satellite-based road extraction frequently fails where tree canopy, building shadows, or cloud cover occlude the road (**spectral blindness**), producing broken, disconnected road masks. **Route Resilience** solves this by decoupling map extraction from stress testing:
 
 ```
@@ -73,6 +77,14 @@ To execute all phases sequentially (Data → Segment → Heal → Analyze → Da
 python run_pipeline.py --launch-dashboard
 ```
 
+For the real map demonstration, launch the dashboard directly:
+
+```bash
+streamlit run dashboard/app.py
+```
+
+Use the sidebar to change latitude, longitude, and road search radius. The map's layer control switches between OpenStreetMap and Esri Satellite. OSM data is cached for one hour during the Streamlit session and can require an internet connection on the first load.
+
 ---
 
 ## 🔬 Running Individual Phases Independently
@@ -127,6 +139,26 @@ Run the full unit test suite covering package imports, data pipeline, PyTorch se
 ```bash
 python -m unittest discover -s tests
 ```
+
+### Current milestone status
+
+Implemented:
+
+- Interactive Folium map with OpenStreetMap and Esri World Imagery layers
+- Bengaluru location controls with configurable search radius
+- Cached real OSM driving-road graph and road overlay
+- Weighted betweenness centrality and top critical-node display
+- Existing node-closure simulation using the displayed reference graph
+
+Not yet implemented:
+
+- Sentinel-2 data pipeline
+- AI road segmentation
+- Skeletonization and MST healing
+- Full Stage B resilience engine
+- FastAPI backend
+
+Esri World Imagery is provided through Esri's public tile service and requires attribution. OpenStreetMap tiles and data require OpenStreetMap attribution and are subject to the public tile service's usage policy; use a suitable provider for production or high-volume deployments.
 
 ---
 
